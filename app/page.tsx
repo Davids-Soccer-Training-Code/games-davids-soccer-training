@@ -34,6 +34,13 @@ export default function Home() {
             href="https://whatsnext.davidssoccertraining.com"
             color="#059669"
           />
+          <GameCard
+            image="/pointsleague-preview.png"
+            title="Points League"
+            description="Every goal and every win counts. Teams change each practice; your points follow you all season."
+            href="https://pointsleague.davidssoccertraining.com"
+            color="#a3e635"
+          />
         </div>
       </div>
 
